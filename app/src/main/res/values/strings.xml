@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Coursera</string>
-    <string name="app_wallpaper">Android</string>
-    <string name="app_text">Hello World!</string>
+    <string name="app_text">Bienvenido</string>
+    <string name="app_boton">Enter</string>
 </resources>
